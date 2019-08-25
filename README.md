@@ -1,5 +1,6 @@
 # 8-24
 总访问量：![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fsems-pc%2F8-24)
+
 8月24日参展项目源代码（包括APP Inventor专用扫码器）
 
 # 前端代码来源：
