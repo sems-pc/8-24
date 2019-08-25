@@ -1,5 +1,5 @@
 # 8-24
-8月24日参展项目源代码（包括APP Inventor专用扫码器下载服务器）
+8月24日参展项目源代码（包括APP Inventor专用扫码器）
 
 # 前端代码来源：
 https://github.com/channingbreeze/games (p2ball，做了静态地址处理以便在Tornado服务器上运行)
